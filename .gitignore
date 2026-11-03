@@ -1,0 +1,5 @@
+.env
+data/
+myenv/
+.venv/
+__pycache__/anthropic_Api_key

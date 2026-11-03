@@ -1,0 +1,9 @@
+beautifulsoup4
+lxml
+langchain-text-splitters
+qdrant-client
+sentence-transformers
+openai
+langchain-openai
+langchain-huggingface
+ragas
